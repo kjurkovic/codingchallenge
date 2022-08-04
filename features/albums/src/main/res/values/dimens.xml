@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="albums_horizontal_spacing_between">6dp</dimen>
+    <dimen name="albums_vertical_spacing_between">12dp</dimen>
+    <dimen name="albums_rounded_corner">8dp</dimen>
+    <dimen name="albums_label_height">20dp</dimen>
+    <dimen name="albums_label_horizontal_padding">8dp</dimen>
+    <dimen name="albums_label_top_padding">3dp</dimen>
+    <dimen name="albums_xs_bottom_padding">4dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="albums_screen_title">Top 100 Albums</string>
+    <string name="albums_retry">Retry</string>
+    <string name="albums_retry_description">Albums did not load properly</string>
+    <string name="albums_release_copyright">Released %s\n%s</string>
+    <string name="albums_visit">Visit The Album</string>
+</resources>
